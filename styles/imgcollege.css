@@ -9,8 +9,7 @@ img{
     margin-bottom: 5px;
 }
 .row div{
-    flex: 1;
-    /* margin-bottom: 5px; */
+    flex: 1; /* sobgulo image soman jayga nibe*/
 }
 .horizontal img{
     height: calc((100% - 5px)/2);
